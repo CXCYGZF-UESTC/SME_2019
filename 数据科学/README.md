@@ -1,4 +1,10 @@
-## 数据科学题目
+## 数据科学题目（1）
+
+#### 借贷人员信用检测
+
+试题详情请点击 <a href="https://jiangkunyu.github.io/?tdsourcetag=s_pctim_aiomsg" target="_blank">这里</a>
+
+## 数据科学题目（2）
 
 ### 利用决策树进行鸢尾花数据分类
 
