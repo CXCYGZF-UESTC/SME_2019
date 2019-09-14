@@ -88,4 +88,8 @@
    + 电路图，流程解释
    + 过程中有什么收获
 
+![驻极体麦克风](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/没用/图片1.png,驻极体麦克风)
 
+![声电转换元件](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/没用/图片2.jpg,声/电转换元件)
+
+![双稳态触发器](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/没用/图片3.png,双稳态触发器)
