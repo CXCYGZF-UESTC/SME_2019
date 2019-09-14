@@ -2,6 +2,8 @@
 
 由12道题组成，基本都是模拟题，考验对语言的掌握和运用。重在让参赛者感受到ACM刷题、竞赛的魅力。入门推荐使用C。
 
+由于题目较多，要获得题目详情请点击<a href="https://vjudge.net/contest/324245?tdsourcetag=s_pctim_aiomsg" target="_blank">这里</a>
+
 ### 【参考资料】
 
 #### 《C/C++ Primer Plus》：  
