@@ -93,3 +93,6 @@
 ![声电转换元件](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/没用/图片2.jpg)
 
 ![双稳态触发器](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/没用/图片3.png)
+
++高低电平的选择
++电路有两种稳定状态  每接收到有效信号翻转一次
