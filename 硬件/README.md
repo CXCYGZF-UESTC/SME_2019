@@ -44,4 +44,4 @@
 ## 参考书目
 
 ### 基于运算放大器和模拟集成电路的电路设计
-！[abc](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/picture/1.jpg)
+！[abc](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/硬件/picture/1.jpg)
