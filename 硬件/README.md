@@ -44,4 +44,10 @@
 ## 参考书目
 
 ### 基于运算放大器和模拟集成电路的电路设计
-！[abc](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/硬件/picture/1.jpg)
+![abc](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/硬件/picture/2.jpg)
+
+### 新概念模拟电路
+![abc](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/硬件/picture/1.jpg)
+
+### ADI技术指南
+![abc](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/硬件/picture/3.jpg)
