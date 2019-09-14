@@ -40,3 +40,8 @@
 2.	报告
 
 3.	创新的设计
+
+## 参考书目
+
+### 基于运算放大器和模拟集成电路的电路设计
+！[abc](https://github.com/CXCYGZF-UESTC/SME_2019/raw/master/picture/1.jpg)
